@@ -1,0 +1,6 @@
+c:\users\goran\documents\visual studio 2017\Projects\BettingCA\BettingCA\bin\Debug\BettingCA.exe.config
+c:\users\goran\documents\visual studio 2017\Projects\BettingCA\BettingCA\bin\Debug\BettingCA.exe
+c:\users\goran\documents\visual studio 2017\Projects\BettingCA\BettingCA\bin\Debug\BettingCA.pdb
+c:\users\goran\documents\visual studio 2017\Projects\BettingCA\BettingCA\obj\Debug\BettingCA.csprojResolveAssemblyReference.cache
+c:\users\goran\documents\visual studio 2017\Projects\BettingCA\BettingCA\obj\Debug\BettingCA.exe
+c:\users\goran\documents\visual studio 2017\Projects\BettingCA\BettingCA\obj\Debug\BettingCA.pdb
